@@ -67,18 +67,18 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
 
 #### <a name='jscode'>Questões de código JS:</a>
 
-*Faça o algoritmo da troca de valores em duas váriaveis sem utilizar uma váriavel auxiliar (Apenas com as duas váriaveis inícias).
-*Faça o algoritmo de Depth First Search com callback.
-*Faça o algoritmo de Busca Binária.
-*Faça o algoritmo para o Calulo do Fatorial.
-*Faça o algoritmo para o Calulo do Fatorial com recursividade.
+* Faça o algoritmo da troca de valores em duas váriaveis sem utilizar uma váriavel auxiliar (Apenas com as duas váriaveis inícias).
+* Faça o algoritmo de Depth First Search com callback.
+* Faça o algoritmo de Busca Binária.
+* Faça o algoritmo para o Calulo do Fatorial.
+* Faça o algoritmo para o Calulo do Fatorial com recursividade.
 
 
 #### <a name='sqlcode'>Questões de código SQL:</a>
 
-*Crie um procedimento que retorne os alunos com idade igual ou superior a 18.
-*Retorne os alunos aprovados na cadeira de `A` que foram alunos de `X` e também foram alunos de `Z`.
-*Retorne a lista de alunos que tiveram notas superiores à 7 na cadeira de `Y` no ano de `2013`.
+* Crie um procedimento que retorne os alunos com idade igual ou superior a 18.
+* Retorne os alunos aprovados na cadeira de `A` que foram alunos de `X` e também foram alunos de `Z`.
+* Retorne a lista de alunos que tiveram notas superiores à 7 na cadeira de `Y` no ano de `2013`.
 
 #### <a name='fun'>Questões Divertidas:</a>
 
