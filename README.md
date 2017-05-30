@@ -15,7 +15,7 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
   1. [Outras Grandes Referências](#references)
   1. [Licença](#license)
 
-#### [[⬆]](#toc) <a name='general'>Questões Gerais:</a>
+#### <a name='general'>Questões Gerais:</a>
 
 * O que você está estudando agora sobre programação?
 * O que você mais gosta sobre programação?
@@ -26,7 +26,7 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
 * Sabe o que é Memoização (Sim é mesmo `Memoização`)?
 
 
-#### [[⬆]](#toc) <a name='html'>Questões de HTML:</a>
+#### <a name='html'>Questões de HTML:</a>
 
 * Diga a estrutura básica de uma página HTML?
 * Para que serve o `doctype` ?
@@ -34,7 +34,7 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
 * Como você desenvolve uma página com conteúdo em múltiplos idiomas?
 * Cite algumas diferenças entre o HTML5 e o HTML4?
 
-#### [[⬆]](#toc) <a name='css'>Questões de CSS:</a>
+#### <a name='css'>Questões de CSS:</a>
 
 * Defina Css?
 * Quais os diferentes tipos de seletores existentes? 
@@ -45,7 +45,7 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
 * Quais frameworks CSS você tem utilizado?
 * Qual a diferença entre trabalhar com framework e sem framework?
 
-#### [[⬆]](#toc) <a name='js'>Questões de JS:</a>
+#### <a name='js'>Questões de JS:</a>
 
 * Quantos tipos de dados existem e quais são?
 * Qual a diferença entre uma variável que `null`,  `undefined` ?
@@ -57,7 +57,7 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
 * Qual a diferença entre "atributo" e "propriedade"?
 * Qual a diferença entre `==` e `===` numa condição?
 
-#### [[⬆]](#toc) <a name='mysql'>Questões de MySql:</a>
+#### <a name='mysql'>Questões de MySql:</a>
 
 * O que é uma BD relacional?
 * Diferença entre uma BD SQL e uma NOSQL?
@@ -65,7 +65,7 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
 * Explique os comandos: `Join`, `Union`, `Exception`, `Group By` e `Inner Join`?
 * O que farias se tivesses que update (Atualizar) o valor de diversos campos?
 
-#### [[⬆]](#toc) <a name='jscode'>Questões de código JS:</a>
+#### <a name='jscode'>Questões de código JS:</a>
 
 *Faça o algoritmo da troca de valores em duas váriaveis sem utilizar uma váriavel auxiliar (Apenas com as duas váriaveis inícias).
 *Faça o algoritmo de Depth First Search com callback.
@@ -74,20 +74,20 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
 *Faça o algoritmo para o Calulo do Fatorial com recursividade.
 
 
-#### [[⬆]](#toc) <a name='sqlcode'>Questões de código SQL:</a>
+#### <a name='sqlcode'>Questões de código SQL:</a>
 
 *Crie um procedimento que retorne os alunos com idade igual ou superior a 18.
 *Retorne os alunos aprovados na cadeira de `A` que foram alunos de `X` e também foram alunos de `Z`.
 *Retorne a lista de alunos que tiveram notas superiores à 7 na cadeira de `Y` no ano de `2013`.
 
-#### [[⬆]](#toc) <a name='fun'>Questões Divertidas:</a>
+#### <a name='fun'>Questões Divertidas:</a>
 
 * O que voçê mais gosta (Front-end ou Back-end)?
 * Quais suas partes favoritas sobre as ferramentas de desenvolvimento que você usa?
 * O que voçê mais gota de fazer (Hobbies)?
 
 
-#### [[⬆]](#toc) <a name='references'>Outras Grandes Referências:</a>
+#### <a name='references'>Outras Grandes Referências:</a>
 
 * https://github.com/duereg/js-algorithms
 * https://sqlzoo.net/
@@ -98,6 +98,6 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
 * http://www.sitepoint.com/5-typical-javascript-interview-exercises/
 * http://www.sitepoint.com/5-javascript-interview-exercises/
 
-#### [[⬆]](#toc) <a name='license'>Licença:</a>
+#### <a name='license'>Licença:</a>
 
 Lançado sobre a [Licença MIT](http://opensource.org/licenses/MIT). Veja o arquivo LICENSE para detalhes.
