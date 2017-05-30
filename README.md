@@ -68,7 +68,7 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
 #### <a name='jscode'>Questões de código JS:</a>
 
 * Faça o algoritmo da troca de valores em duas váriaveis sem utilizar uma váriavel auxiliar (Apenas com as duas váriaveis inícias).
-* Faça o algoritmo de Depth First Search com callback.
+* Faça o algoritmo de Busca `Depth First` com callback.
 * Faça o algoritmo de Busca Binária.
 * Faça o algoritmo para o Calulo do Fatorial.
 * Faça o algoritmo para o Calulo do Fatorial com recursividade.
@@ -84,7 +84,7 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
 
 * O que voçê mais gosta (Front-end ou Back-end)?
 * Quais suas partes favoritas sobre as ferramentas de desenvolvimento que você usa?
-* O que voçê mais gota de fazer (Hobbies)?
+* O que voçê mais gosta de fazer (Hobbies)?
 
 
 #### <a name='references'>Outras Grandes Referências:</a>
