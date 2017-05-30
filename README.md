@@ -70,8 +70,8 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
 * Faça o algoritmo da troca de valores em duas váriaveis sem utilizar uma váriavel auxiliar (Apenas com as duas váriaveis inícias).
 * Faça o algoritmo de Busca `Depth First` com callback.
 * Faça o algoritmo de Busca Binária.
-* Faça o algoritmo para o Calulo do Fatorial.
-* Faça o algoritmo para o Calulo do Fatorial com recursividade.
+* Faça o algoritmo para o cálculo do Fatorial.
+* Faça o algoritmo para o cálculo do Fatorial com recursividade.
 
 
 #### <a name='sqlcode'>Questões de código SQL:</a>
