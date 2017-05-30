@@ -8,7 +8,7 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
   1. [Questões de HTML](#html)
   1. [Questões de CSS](#css)
   1. [Questões de JS](#js)
-  1. [Questões de MySql](#jquery)
+  1. [Questões de MySql](#mysql)
   1. [Questões de Código](#jscode)
   1. [Questões de Código SQL](#sqlcode)
   1. [Questões Divertidas](#fun)
@@ -57,7 +57,7 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
 * Qual a diferença entre "atributo" e "propriedade"?
 * Qual a diferença entre `==` e `===` numa condição?
 
-####[[⬆]](#toc) <a name='jquery'>Questões de MySql:</a>
+####[[⬆]](#toc) <a name='mysql'>Questões de MySql:</a>
 
 * O que é uma BD relacional?
 * Diferença entre uma BD SQL e uma NOSQL?
