@@ -50,7 +50,7 @@ Este repositório contém uma série de perguntas para entrevista de profissiona
 * Quantos tipos de dados existem e quais são?
 * Qual a diferença entre uma variável que `null`,  `undefined` ?
 * Explique para que serve o `this` ?
-* O que é um `callback` em javascript?
+* O que é `callback` ?
 * O que é otimização de código?
 * Você pode explicar como funciona a herença no Javascript?
 * O que é uma função `On Load`?
